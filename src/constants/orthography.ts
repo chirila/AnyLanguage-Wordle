@@ -2,29 +2,19 @@ import { CONFIG } from './config'
 
 export const ORTHOGRAPHY = [
   'a',
-  'aa',
   'b',
   'd',
-  'rd',
   'g',
   'i',
-  'ii',
   'j',
   'k',
   'l',
-  'rl',
   'm',
   'n',
-  'ng',
-  'rn',
   'o',
-  'oo',
   'r',
-  'rr',
-  't',
   'w',
   'y',
-  "'",
 ]
 
 if (CONFIG.normalization) {
